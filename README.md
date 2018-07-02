@@ -1,7 +1,7 @@
 # Regressao-Linear-Simples-Academico
 Usado para prever possíveis resultados. 
 
-Em anexo esta um arquivo (AnaliseEstud.csv) a ideia é utilizar estes valores 
+Em anexo esta um arquivo (AnaliseEstudo.csv) a ideia é utilizar estes valores 
 para prever as notas das provas, utilizando o a coluna TempoEstudo.
 
 # Sobre
